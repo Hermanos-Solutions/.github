@@ -9,18 +9,18 @@
 
   Option A (easiest): uses the organization's profile picture.
   <img src="https://github.com/ORG_HANDLE.png" width="120" alt="HERMANOS SOLUTIONS logo">
+  <img src="https://github.com/Hermanos-Solutions/.github/blob/main/profile/Hermanos%20Solutions%20Logo.png" width="120" alt="HERMANOS SOLUTIONS logo">
 
   Option B: uses a file named logo.png uploaded inside the .github repo, in the profile folder.
   <img src="https://raw.githubusercontent.com/ORG_HANDLE/.github/main/profile/logo.png" width="120" alt="HERMANOS SOLUTIONS logo">
 
   After pasting, add <br><br> under the <img> line so the logo has space below it.
 -->
+<img src="https://github.com/Hermanos-Solutions/.github/blob/main/profile/Hermanos%20Solutions%20Logo.png" width="120" alt="HERMANOS SOLUTIONS logo">
 
-<sub><b>INDEPENDENT SOFTWARE ORGANIZATION</b></sub>
 
 <h1>HERMANOS SOLUTIONS</h1>
 
-<h3>Build together. Build well.</h3>
 
 <p>
 Software, games, and interactive experiences,<br>
@@ -73,21 +73,6 @@ We are not tied to a single technology, platform, or type of project. We follow 
 | **Roblox** | Roblox experiences and game systems. |
 | **UI/UX and visual assets** | Interface design, visual identity, and the assets that go with them. |
 | **Performance and quality** | Optimization and technical improvements to existing work. |
-| **Collaborative projects** | Team-based and client-oriented development as the organization grows. |
-
-<br>
-
-## Our Teams
-
-We work through five specialized teams, each responsible for a defined area. A project draws on the teams it needs. Not every project involves all five.
-
-| Team | Responsibilities |
-| :--- | :--- |
-| **Overview** | Development direction, project architecture, development standards, coordination, and organization-wide technical decisions. |
-| **Mechanics** | Core gameplay mechanics, player interactions, game systems, progression, and gameplay functionality. |
-| **Gacha** | Probability-based systems: RNG mechanics, reward pools, drop rates, balancing, and reward distribution. |
-| **Design** | UI/UX, interface design, visual identity, 3D modeling, Roblox assets, and overall visual presentation. |
-| **Optimization** | Performance, resource efficiency, memory management, network optimization, profiling, and technical quality assurance. |
 
 <br>
 
@@ -115,20 +100,19 @@ We work through five specialized teams, each responsible for a defined area. A p
 
 <br>
 
-## Projects
-
-Our portfolio is just getting started. Public projects will appear in this organization's repositories as they are ready to share, and pinned repositories will be shown at the top of the organization page.
-
-<br>
-
-## Looking Ahead
-
-We want to keep growing as a team: taking on larger collaborative projects, exploring new kinds of interactive work, and eventually building for clients. As we grow, the goal stays the same, which is to build things carefully, learn from each project, and keep the quality bar high.
-
-<br>
-
 ---
 
+```
+
+██╗  ██╗███████╗██████╗ ███╗   ███╗ █████╗ ███╗   ██╗ ██████╗ ███████╗     ██████╗ ██████╗    
+██║  ██║██╔════╝██╔══██╗████╗ ████║██╔══██╗████╗  ██║██╔═══██╗██╔════╝    ██╔════╝██╔═══██╗   
+███████║█████╗  ██████╔╝██╔████╔██║███████║██╔██╗ ██║██║   ██║███████╗    ██║     ██║   ██║   
+██╔══██║██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║╚════██║    ██║     ██║   ██║   
+██║  ██║███████╗██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝███████║    ╚██████╗╚██████╔╝██╗
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝     ╚═════╝ ╚═════╝ ╚═╝
+
+```
+
 <div align="center">
-  <sub>HERMANOS SOLUTIONS &nbsp;&middot;&nbsp; Independent &nbsp;&middot;&nbsp; Collaborative &nbsp;&middot;&nbsp; Building</sub>
+  <i>© Hermanos 2026 - For Hermanos. By Hermanos</i>
 </div>
